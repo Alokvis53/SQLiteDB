@@ -180,3 +180,7 @@ You can refer to the sample iOS and macOS projects for more examples of how to i
 ## Questions?
 
 SQLiteDB is under DWYWPL - Do What You Will Public License :) Do whatever you want either personally or commercially with the code but if you'd like, feel free to attribute in your app.
+
+## Courtesy By 
+
+FahimF - https://github.com/FahimF/SQLiteDB
